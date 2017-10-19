@@ -2,7 +2,7 @@ class Xcodegen < Formula
   desc "Tool that generates your Xcode project from a project spec"
   homepage "https://github.com/Lyft/XcodeGen"
   url "https://github.com/lyft/XcodeGen/releases/download/1.2.4/XcodeGen.tar.gz"
-  sha256 "e621659f6955f07b3e1ef065955632933539a94edd29ee563c577aec7820b3a0"
+  sha256 "ab463ee62a53fccbdfcbd4198acebc8b502838c09aee869af8c09e872154d325"
   head "https://github.com/lyft/XcodeGen.git", :branch => "develop"
 
   depends_on :xcode
