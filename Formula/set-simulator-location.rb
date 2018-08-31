@@ -1,8 +1,8 @@
 class SetSimulatorLocation < Formula
   homepage "https://github.com/lyft/set-simulator-location"
   head "https://github.com/lyft/set-simulator-location.git"
-  url "https://github.com/lyft/set-simulator-location/releases/download/1.2.0/set-simulator-location.tar.gz"
-  sha256 "ccfba9168f2d9b3ebdf36fca98780f9aa70cd758d77b80f5e7e37fc216aa2f9f"
+  url "https://github.com/lyft/set-simulator-location/releases/download/1.3.0/set-simulator-location.tar.gz"
+  sha256 "fdd61a2be59c8aa2a1688d68bb56185d69edbc8f523f8257fe009abc0ef722d2"
 
   def install
     if build.head?
